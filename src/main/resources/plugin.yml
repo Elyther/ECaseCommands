@@ -1,0 +1,6 @@
+name: ECaseCommands
+version: 1.0.0
+main: com.elyther.ecasecommands.ECaseCommands
+api-version: '1.21'
+author: Elyther
+description: Makes all player commands case-insensitive.
